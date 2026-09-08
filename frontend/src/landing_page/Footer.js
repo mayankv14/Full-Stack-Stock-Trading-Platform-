@@ -1,5 +1,4 @@
- import React from "react";
-
+ 
 function Footer() {
   return (
     <footer style={{ backgroundColor: "rgb(250,250,250)" }}>
@@ -7,7 +6,7 @@ function Footer() {
         <div className="row mt-5">
           <div className="col">
             <img
-              src="images/logo.svg"
+              src="/images/logo.svg"
               alt="Zerodha logo"
               style={{ width: "50%" }}
               className="mb-3"
