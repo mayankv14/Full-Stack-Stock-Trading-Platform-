@@ -1,10 +1,10 @@
-import React from "react";
+ import React from "react";
 
 function Footer() {
   return (
     <footer style={{ backgroundColor: "rgb(250,250,250)" }}>
       <div className="container border-top mt-5">
-        <div className="row mt-5 ">
+        <div className="row mt-5">
           <div className="col">
             <img
               src="images/logo.svg"
@@ -12,42 +12,52 @@ function Footer() {
               style={{ width: "50%" }}
               className="mb-3"
             />
+
             <p>
-              © 2010 - 2026, Zerodha Broking Ltd. <br></br>
+              © 2010 - 2026, Zerodha Broking Ltd. <br />
               All rights reserved.
             </p>
           </div>
-          <div className="col ">
+
+          <div className="col">
             <p>Account</p>
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Open demat account
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Minor demat account
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               NRI demat account
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               HUF demat account
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Commodity
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Dematerialisation
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Fund transfer
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               MTF
             </a>
             <br />
@@ -55,35 +65,43 @@ function Footer() {
 
           <div className="col">
             <p>Support</p>
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Contact us
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Support portal
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               How to file a complaint
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Status of your complaints
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Bulletin
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Circular
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Z-connect blog
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Downloads
             </a>
             <br />
@@ -91,35 +109,43 @@ function Footer() {
 
           <div className="col">
             <p>Company</p>
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               About
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Philosophy
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Press & media
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Careers
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Zerodha.Carier(CSR)
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Zerodha.tech
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               open source
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Referral program
             </a>
             <br />
@@ -127,40 +153,49 @@ function Footer() {
 
           <div className="col">
             <p>Quick links</p>
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Upcoming IPOs
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Brokerage charges
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Market holidays
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Economic calendar
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Calculators
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Markets
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Sectors
             </a>
             <br />
-            <a href="/" className="footer-link d-block">
+
+            <a href="https://zerodha.com/" className="footer-link d-block">
               Gift Nifty
             </a>
             <br />
           </div>
         </div>
+
         <div className="mt-5 text-muted" style={{ fontSize: "11px" }}>
           <p>
             Zerodha Broking Ltd.: Member of NSE, BSE, MCX & MSEI – SEBI
@@ -173,19 +208,23 @@ function Footer() {
             related to dp@zerodha.com. Please ensure you carefully read the Risk
             Disclosure Document as prescribed by SEBI | ICF
           </p>
+
           <p>
             Procedure to file a complaint on SEBI SCORES: Register on SCORES
             portal. Mandatory details for filing complaints on SCORES: Name,
             PAN, Address, Mobile Number, E-mail ID. Benefits: Effective
             Communication, Speedy redressal of the grievances
           </p>
-          <a href="/">
+
+          <a href="https://zerodha.com/">
             Smart Online Dispute Resolution | Grievances Redressal Mechanism
           </a>
+
           <p>
             Investments in securities market are subject to market risks; read
             all the related documents carefully before investing.
           </p>
+
           <p>
             Attention investors: 1) Stock brokers can accept securities as
             margins from clients only by way of pledge in the depository system
@@ -195,8 +234,13 @@ function Footer() {
             create pledge. 3) Check your securities / MF / bonds in the
             consolidated account statement issued by NSDL/CDSL every month.
           </p>
-          <p>India's largest broker based on networth as per NSE.</p>{" "}
-          <a href="/">NSE broker factsheet</a>
+
+          <p>India's largest broker based on networth as per NSE.</p>
+
+          <a href="https://www.nseindia.com/">
+            NSE broker factsheet
+          </a>
+
           <p>
             "Prevent unauthorised transactions in your account. Update your
             mobile numbers/email IDs with your stock brokers/depository
@@ -215,6 +259,7 @@ function Footer() {
             others. If you find anyone claiming to be part of Zerodha and
             offering such services, please create a ticket here.
           </p>
+
           <p>
             *Customers availing insurance advisory services offered by Ditto
             (Tacterial Consulting Private Limited | IRDAI Registered Corporate
@@ -222,6 +267,7 @@ function Footer() {
             exchange investor grievance redressal forum, SEBI SCORES/ODR, or
             arbitration mechanism for such products.
           </p>
+
           <p>
             Fixed deposit products offered on this platform are third-party
             products (TPP) and are not Exchange traded products. These are
